@@ -7,7 +7,7 @@
 # Spring Could & Netflix OSS
 
 | Operations Component | Netflix, Spring, ELK |
-------------------------------------------------
+|------------------------|------------------------|
 | Service Discovery server | Netflix Eureka |
 | Dynamic Routing and Load Balancer | Netflix Ribbon |
 | Circuit Breaker | Netflix Hystrix |
